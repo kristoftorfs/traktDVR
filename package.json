@@ -1,0 +1,13 @@
+{
+  "name": "traktDVR",
+  "version": "0.0.1",
+  "description": "traktDVR",
+  "main": "app.js",
+  "author": {
+    "name": "Kristof Torfs",
+    "email": "kristof@torfs.org"
+  },
+  "dependencies": {
+    "inquirer": "^0.8.0"
+  }
+}
